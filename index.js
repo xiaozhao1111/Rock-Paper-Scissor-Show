@@ -67,7 +67,7 @@ function setScissor() {
 
 // create a function show the final result
 function showResult() {
-    gameResult.innerText = "You've played " + count + " gmaes, " + wins + " wins, " + loses + "loses" + ", and " + ties + " ties." 
+    gameResult.innerText = "You've played " + count + " games, " + wins + " wins, " + loses + " loses" + ", and " + ties + " ties." 
 }
 
 function clearGame() {
